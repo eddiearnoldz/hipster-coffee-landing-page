@@ -1,0 +1,24 @@
+[
+  {
+    "shopName": "The Coffee Connection",
+    "address": "123 Lakeside Way",
+    "phone": "16503600708",
+    "prices": [
+        {"drink": "Cafe Latte", "price": 4.75},
+        {"drink": "Flat White", "price": 4.75},
+        {"drink": "Cappucino", "price": 3.85},
+        {"drink": "Single Espresso", "price": 2.05},
+        {"drink": "Double Espresso", "price": 3.75},
+        {"drink": "Americano", "price": 3.75},
+        {"drink": "Cortado", "price": 4.55},
+        {"drink": "Tea", "price": 3.65},
+        {"drink": "Choc Mudcake", "price": 6.40},
+        {"drink": "Choc Mousse", "price": 8.20},
+        {"drink": "Affogato", "price": 14.80},
+        {"drink": "Tiramisu", "price": 11.40},
+        {"drink": "Blueberry Muffin", "price": 4.05},
+        {"drink": "Chocolate Chip Muffin", "price": 4.05},
+        {"drink": "Muffin Of The Day", "price": 4.55}
+    ]
+  }
+]
